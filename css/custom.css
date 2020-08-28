@@ -1,0 +1,173 @@
+.best-seller-logo
+{
+	margin-top: 14px;
+	width: 149px;
+	height: 57px;
+	margin-bottom: 33px;
+}
+.carousel
+{
+	margin-top: 6%;
+}
+
+.carousel-right-items
+{
+ width: 53%;
+ margin-top: -20px;
+}
+.carousel-right
+{
+	width: 7%;
+	margin-top: 6%;
+}
+
+.carousel
+{
+	width: 70%;
+}
+
+.blogPriceBefore
+{
+	color: rgb(139, 139, 139);
+	text-decoration: line-through;
+}
+
+.lodenians-logo
+{
+	height: 30px;
+	background: white;
+	margin-top: -5px;
+}
+
+
+.imgOfGallery
+{
+	margin-right: 35px!important;
+}
+
+.thumbnailForGallery
+{
+  padding: 40px;
+}
+
+.fr
+{
+  float: right!important;
+}
+
+.inputFromSelectOption
+{
+	margin: 10px;
+    width: 89px;
+}
+
+.phpdebugbar-restore-btn
+{
+	display: none!important;
+}
+
+.bottom-zero
+{
+	margin-bottom: 0;
+}
+
+.comment-label
+{
+margin-top: -19px;
+font-weight: 100;
+font-size: 12px;
+margin-left: 7px;
+margin-bottom: 15px;
+}
+
+.align-left
+{
+	text-align: left!important;
+}
+
+
+.alert 
+{
+	text-align: center;
+}
+.cl
+{
+	clear: both;
+}
+
+.fl
+{
+	float: left;
+}
+
+.fifty_percent
+{
+	width: 45%;
+	margin: 20px;
+}
+
+.emptyCartClass
+{
+	text-align: center;
+	font-weight: 600;
+}
+
+.cntr
+{
+	text-align: center;
+}
+
+footer
+{
+width: 85%;
+margin-left: 8%;
+}
+
+.NEW
+{
+	background-color: #FFC;
+}
+
+.newLabel
+{
+	color: gray;
+	font-size: 12px;
+}
+
+.thumb_searchResults
+{
+	height: 29%;
+}
+
+tr.odd {
+	background-color: #f9f9f91!important;
+}
+
+.blogPriceTD
+{
+	width: 100px;
+}
+
+.blogPriceTdP{
+	text-align: right;
+}
+
+#resultTable
+{
+	margin-bottom: 5%;
+	width: 100%!important;
+}
+
+.searchResultLabel
+{
+	margin-top: 9%;
+	margin-bottom: 4%;
+	font-size: 24px;
+}
+
+.parsley-errors-list {
+color: red;
+list-style: none;
+margin: 2px 0 0 -39px;
+font-size: 13px;
+}

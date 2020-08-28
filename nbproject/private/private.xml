@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/cms/app/views/users/create.blade.php</file>
+            <file>file:/C:/xampp/htdocs/cms/app/models/Blog.php</file>
+            <file>file:/C:/xampp/htdocs/cms/app/controllers/UsersController.php</file>
+            <file>file:/C:/xampp/htdocs/cms/app/views/layouts/navigation_header.blade.php</file>
+            <file>file:/C:/xampp/htdocs/cms/app/views/blogs/index.blade.php</file>
+            <file>file:/C:/xampp/htdocs/cms/app/controllers/HomeController.php</file>
+            <file>file:/C:/xampp/htdocs/cms/app/views/users/index.blade.php</file>
+            <file>file:/C:/xampp/htdocs/cms/app/views/layouts/default.blade.php</file>
+            <file>file:/C:/xampp/htdocs/cms/app/views/blogs/create.blade.php</file>
+            <file>file:/C:/xampp/htdocs/cms/app/controllers/BlogsController.php</file>
+        </group>
+    </open-files>
+</project-private>

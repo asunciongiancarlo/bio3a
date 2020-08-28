@@ -1,0 +1,3 @@
+<button class="btn btn-lg btn-warning">
+	<span class="glyphicon glyphicon-refresh spinning"></span> Loading...
+</button>
